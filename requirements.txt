@@ -1,0 +1,7 @@
+# Core dependencies
+requests           # HTTP client for API calls and web scraping
+sentence-transformers  # Embedding model
+faiss-cpu          # Vector similarity search
+duckduckgo-search  # Free search engine interface
+beautifulsoup4     # HTML parsing
+python-dotenv      # .env support
